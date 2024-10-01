@@ -1,0 +1,26 @@
+.btnPost{
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 10%;
+
+}
+.info{
+    border-style: solid;
+    
+}
+.infoPost{
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+    margin: 5px;
+   
+}
+
+.postTitle{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.postBody{
+    font-size: 25px;
+}
